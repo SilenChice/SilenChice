@@ -6,7 +6,7 @@
         />
     </a>
 </p>
-<a href="https://github.com/SilenChice"><img src="https://cardivo.vercel.app/api?name=Rifky | Chikoo&description=Hi, i'm SilenChice and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/7033cb00350cf25e4038d.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&github=SilenChice&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+<a href="https://github.com/SilenChice"><img src="https://cardivo.vercel.app/api?name=Rifky | Chikoo&description=Hi, i'm SilenChice and i'm just a newbie programmer nice to meet you all 🤗&image=https://telegra.ph/file/75d9fe28fdd5078195e00.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@rifkyekaxyz_&github=SilenChice&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 
 </p>
 <p align="center">
